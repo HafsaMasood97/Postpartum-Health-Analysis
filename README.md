@@ -69,10 +69,12 @@ To run this project on your local machine:
    
 2. **Install required dependencies:**
 ```bash
-pip install -r requirements.txt
+  pip install -r requirements.txt
+```
 
 3. **Run the Jupyter Notebook:**
 ```bash
 jupyter notebook
+```
 
 4. Open the notebook (Postpartum_Depression_Analysis.ipynb) and follow the analysis.
