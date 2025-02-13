@@ -63,9 +63,9 @@ By leveraging **Python, Pandas, Matplotlib, Seaborn, and Scikit-learn**, we aim 
 To run this project on your local machine:  
 
 1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/yourusername/Postpartum-Depression-Analysis.git
-   cd Postpartum-Depression-Analysis
+```bash
+  git clone https://github.com/yourusername/Postpartum-Depression-Analysis.git
+  cd Postpartum-Depression-Analysis
    
 2. **Install required dependencies:**
 ```bash
